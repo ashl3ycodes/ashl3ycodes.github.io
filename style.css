@@ -8,7 +8,7 @@
 }
 
 *::selection {
-	color: #b981b5;
+	color: #ff00ff;
 }
 
 html {
@@ -41,7 +41,7 @@ html::-webkit-scrollbar {
 
 .navbar.sticky {
 	padding: 15px 0;
-	background: #b981b5;
+	background: #ff00ff;
 }
 
 .navbar .max-width {
@@ -57,7 +57,7 @@ html::-webkit-scrollbar {
 }
 
 .navbar .logo a span {
-	color: #b981b5;
+	color: #ff00ff;
 	transition: all 0.3s ease;
 }
 
@@ -80,7 +80,7 @@ html::-webkit-scrollbar {
 }
 
 .navbar .menu li a:hover {
-	color: #b981b5;
+	color: #ff00ff;
 }
 
 .navbar.sticky .menu li a:hover {
@@ -98,7 +98,7 @@ html::-webkit-scrollbar {
 	position: fixed;
 	height: 45px;
 	width: 42px;
-	background: #b981b5;
+	background: #ff00ff;
 	right: 30px;
 	bottom: 10px;
 	text-align: center;
@@ -155,7 +155,7 @@ html::-webkit-scrollbar {
 }
 
 .home .home-content .text-3 span {
-	color: #b981b5;
+	color: #ff00ff;
 	font-weight: 500;
 }
 
@@ -189,7 +189,7 @@ section .title::after {
 	bottom: -12px;
 	left: 50%;
 	font-size: 20px;
-	color: #b981b5;
+	color: #ff00ff;
 	padding: 5px;
 	background: #fff;
 	transform: translateX(-50%);
@@ -290,7 +290,7 @@ section .title::after {
 }
 
 .projects .carousel .cardd:hover img {
-	border-color: #e78fe1;
+	border-color: #ff00ff;
 }
 footer {
 	font-family: 'Poppins', sans-serif;
@@ -300,7 +300,7 @@ footer {
 	text-align: center;
 }
 footer span a {
-	color: #b981b5;
+	color: #ff00ff;
 	text-decoration: none;
 }
 footer span a:hover {
