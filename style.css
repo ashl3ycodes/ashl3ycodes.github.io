@@ -290,9 +290,6 @@ section .title::after {
 	transition: all 0.3s ease-in-out;
 }
 
-.projects .carousel .cardd:hover img {
-	border-color: #e78fe1;
-}
 footer {
 	font-family: 'Poppins', sans-serif;
 	background: #121212;
